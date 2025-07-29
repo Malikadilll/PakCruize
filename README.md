@@ -45,3 +45,4 @@ React Native Reanimated Carousel
 
 [Alt Text](./assets/Sample1.jpeg)
 [Alt Text](./assets/Sample2.jpeg)
+![App Screenshot](./assets/Sample1.jpeg)
