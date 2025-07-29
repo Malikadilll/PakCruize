@@ -42,3 +42,5 @@ React Navigation
 Lottie Animations
 
 React Native Reanimated Carousel
+
+[Alt Text](./assets/images/sample1.jpeg)
