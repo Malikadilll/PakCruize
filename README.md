@@ -44,5 +44,5 @@ Lottie Animations
 React Native Reanimated Carousel
 
 
-![App Screenshot](./assets/Sample3.jpeg)
+![App Screenshot](./assets/Sample3.jpg)
 
