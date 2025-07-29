@@ -4,7 +4,7 @@
     "slug": "PakCruize",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/Icon.png",
+    "icon": "./icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -17,8 +17,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./icon.png",
+        "backgroundColor": "#2F2F2F"
       },
       "edgeToEdgeEnabled": true,
       "package": "com.malik_adilll.PakCruize"
