@@ -42,3 +42,7 @@ React Navigation
 Lottie Animations
 
 React Native Reanimated Carousel
+
+
+![App Screenshot](./assets/Sample1.jpeg)
+![App Screenshot](./assets/Sample2.jpeg)
