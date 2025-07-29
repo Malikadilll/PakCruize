@@ -43,4 +43,5 @@ Lottie Animations
 
 React Native Reanimated Carousel
 
-[Alt Text](./assets/images/sample1.jpeg)
+[Alt Text](./assets/Sample1.jpeg)
+[Alt Text](./assets/Sample2.jpeg)
